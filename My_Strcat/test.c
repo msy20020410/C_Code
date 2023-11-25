@@ -6,12 +6,12 @@ char* my_strcat(char* dest, const char* src)
 	char* ret = dest;
 	assert(dest != NULL);
 	assert(src != NULL);
-	//ÕÒµ½Ğ±¸Ü0
+	//æ‰¾åˆ°æ–œæ 0
 	while (*dest != '\0')
 	{
 		dest++;
 	}
-	//×·¼Ó
+	//strcpy
 	while (*dest++ = *src++)
 	{
 		;
