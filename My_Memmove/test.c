@@ -9,7 +9,7 @@ void* my_memmove(void* dest, const void* src, size_t count)
 	assert(src != NULL);
 	if (dest < src)
 	{
-		//«∞->∫Û
+		//Ââç->Âêé
 		while (count--)
 		{
 			*(char*)dest = *(char*)src;
@@ -19,7 +19,7 @@ void* my_memmove(void* dest, const void* src, size_t count)
 	}
 	else
 	{
-		//∫Û->«∞
+		//Âêé->Ââç
 		while (count--)
 		{
 			*((char*)dest + count) = *((char*)src + count);
