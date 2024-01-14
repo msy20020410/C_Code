@@ -1,0 +1,3 @@
+﻿  test.c
+C:\My_C_Code\Simple_Book_System\test.c(158,12): warning C4101: “j”: 未引用的局部变量
+  Simple_Book_System.vcxproj -> C:\My_C_Code\Simple_Book_System\Debug\Simple_Book_System.exe

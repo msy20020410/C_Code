@@ -1,0 +1,2 @@
+C:\Users\mashi\source\repos\Simple_Book_System\Debug\Simple_Book_System.exe
+C:\My_C_Code\Simple_Book_System\Debug\Simple_Book_System.exe
